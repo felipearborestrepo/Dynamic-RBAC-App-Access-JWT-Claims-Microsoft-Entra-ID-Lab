@@ -1,6 +1,8 @@
 # 🔐 Dynamic RBAC Application Access with Microsoft Entra ID  
 **(Custom App Registration + Enterprise Application Integration)**
 
+<img width="1536" height="1024" alt="ChatGPT Image Jan 21, 2026, 10_38_58 PM" src="https://github.com/user-attachments/assets/b044f8f2-3179-4495-b484-c1c73a7d7bd6" />
+
 ---
 
 ## 📘 Project Overview
